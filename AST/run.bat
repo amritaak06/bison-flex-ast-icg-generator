@@ -16,3 +16,7 @@ ast.exe < test_input2.c
 
 echo Running test_input3.c
 ast.exe < test_input3.c
+
+
+echo Running test_input4.c
+ast.exe < test_input4.c
